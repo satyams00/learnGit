@@ -1,9 +1,1 @@
 hello
-
-c1
-
-c3
-
-c4
-
-detav
